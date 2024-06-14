@@ -1,0 +1,9 @@
+pre {
+    font-size: 0.5em;
+}
+
+li {
+    padding: 10px; 
+    font-family: monospace;
+    list-style: auto;
+}
